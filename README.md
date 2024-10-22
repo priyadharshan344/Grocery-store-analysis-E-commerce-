@@ -1,3 +1,5 @@
+![Grocery store](https://github.com/priyadharshan344/Grocery-store-analysis-E-commerce-/blob/main/Blink.jpg)
+
 # Grocery-store-analysis- (E-commerce)
 
 This project focuses on analyzing sales data for an online grocery store to provide insights into sales performance across various product and outlet categories. The analysis was performed using Power BI, combining data cleansing, modeling, and visualization techniques to meet business requirements.
@@ -32,6 +34,12 @@ The Grocery Store Sales Analysis project aims to provide comprehensive insights 
 - Sales by Fat Content: Highlights sales distribution based on fat content (low, medium, high) and how it varies by item type.
 - Sales by Outlet Size and Type: Analyzes sales based on the outlet’s size and its operational type (supermarket, small store, etc.).
 - Sales by Outlet Location: A geographical breakdown of outlet sales to track performance across different regions.
+
+### Dashboard
+[PBIX File](https://github.com/priyadharshan344/Grocery-store-analysis-E-commerce-/blob/main/Blinkit.pbix)
+
+### Raw Dataset
+[Dataset](https://github.com/priyadharshan344/Grocery-store-analysis-E-commerce-/blob/main/Grocery%20Data.csv)
 
 ## Conclusion
 This analysis helps uncover critical insights about the grocery store's performance, offering valuable information to decision-makers for improving product offerings, optimizing outlet performance, and enhancing customer satisfaction. By using Power BI’s powerful visualization features and integrating data modeling, this project delivers a full-scale view of the store's sales data.
